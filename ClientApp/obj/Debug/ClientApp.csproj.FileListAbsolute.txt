@@ -1,0 +1,10 @@
+D:\c-network\TPCIP-Form\ClientApp\bin\Debug\ClientApp.exe.config
+D:\c-network\TPCIP-Form\ClientApp\bin\Debug\ClientApp.exe
+D:\c-network\TPCIP-Form\ClientApp\bin\Debug\ClientApp.pdb
+D:\c-network\TPCIP-Form\ClientApp\obj\Debug\ClientApp.Client.resources
+D:\c-network\TPCIP-Form\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+D:\c-network\TPCIP-Form\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+D:\c-network\TPCIP-Form\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+D:\c-network\TPCIP-Form\ClientApp\obj\Debug\ClientApp.exe
+D:\c-network\TPCIP-Form\ClientApp\obj\Debug\ClientApp.pdb
+D:\c-network\TPCIP-Form\ClientApp\obj\Debug\ClientApp.csprojAssemblyReference.cache

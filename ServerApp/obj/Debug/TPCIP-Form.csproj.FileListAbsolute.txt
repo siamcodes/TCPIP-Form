@@ -1,0 +1,10 @@
+D:\c-network\TPCIP-Form\TPCIP-Form\bin\Debug\TPCIP-Form.exe.config
+D:\c-network\TPCIP-Form\TPCIP-Form\bin\Debug\TPCIP-Form.exe
+D:\c-network\TPCIP-Form\TPCIP-Form\bin\Debug\TPCIP-Form.pdb
+D:\c-network\TPCIP-Form\TPCIP-Form\obj\Debug\TPCIP-Form.csprojAssemblyReference.cache
+D:\c-network\TPCIP-Form\TPCIP-Form\obj\Debug\TPCIP_Form.Server.resources
+D:\c-network\TPCIP-Form\TPCIP-Form\obj\Debug\TPCIP_Form.Properties.Resources.resources
+D:\c-network\TPCIP-Form\TPCIP-Form\obj\Debug\TPCIP-Form.csproj.GenerateResource.cache
+D:\c-network\TPCIP-Form\TPCIP-Form\obj\Debug\TPCIP-Form.csproj.CoreCompileInputs.cache
+D:\c-network\TPCIP-Form\TPCIP-Form\obj\Debug\TPCIP-Form.exe
+D:\c-network\TPCIP-Form\TPCIP-Form\obj\Debug\TPCIP-Form.pdb
